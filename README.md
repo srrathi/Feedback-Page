@@ -15,5 +15,4 @@ I'll try my best to resolve all the issuesand sorry for delay, I'll keep trying 
 >> To Run it
   - Download this project foler and add the node modules folder, which is created when we create a new react app.
   - Open the terminal in the project folder and run following commands
-  >> npm install react-router-dom
-  >> npm start server
+  >> npm install react-router-dom && npm start server
