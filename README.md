@@ -1,6 +1,6 @@
 # Feedback-Page
 This Repository contain the code for the extension uninstall feedback page.
->>tasks remaining : 
+>> Tasks Remaining
   - First of all the code look too messy, so i have to clean the code and make it human readable.
   - Remove all the bugs and setting proper pages through routing.
   - As till now the functionality to add a new option and show its count when that option is selected from user side is achieved but that only work when both
@@ -11,3 +11,9 @@ This Repository contain the code for the extension uninstall feedback page.
   - The firebase part is still not setup, so i have to work on it as its new for me.
   
 I'll try my best to resolve all the issuesand sorry for delay, I'll keep trying and working on it.
+
+>> To Run it
+  - Download this project foler and add the node modules folder, which is created when we create a new react app.
+  - Open the terminal in the project folder and run following commands
+  >> npm install react-router-dom
+  >> npm start server
