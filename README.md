@@ -10,8 +10,6 @@ This Repository contain the code for the extension uninstall feedback page.
     after it we have to again click on the input box to add another character, and this keeps on repeating after taking input one character.
   - The firebase part is still not setup, so i have to work on it as its new for me.
   
-I'll try my best to resolve all the issues and sorry for delay, I'll keep trying and working on it.
-
 >> To Run it
   - Download this project folder and add the node modules folder, which is created when we create a new react app.
   - Open the terminal in the project folder and run following commands
