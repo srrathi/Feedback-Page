@@ -1,6 +1,6 @@
 # Feedback-Page
 This Repository contain the code for the extension uninstall feedback page.
-tasks remaining : 
+>>tasks remaining : 
   - First of all the code look too messy, so i have to clean the code and make it human readable.
   - Remove all the bugs and setting proper pages through routing.
   - As till now the functionality to add a new option and show its count when that option is selected from user side is achieved but that only work when both
