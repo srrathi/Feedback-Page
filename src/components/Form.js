@@ -18,7 +18,7 @@ const Form = ({inputText, options, setInputText, setOptions}) =>{
                 edit:false, 
                 selected: false, 
                 count: 0, 
-                id: optn.length}
+                id: Math.random()}
         ])
         
         setInputText("");

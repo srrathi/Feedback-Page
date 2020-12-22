@@ -11,7 +11,7 @@ const OptionList =({options,
                         return (<Option
                         option = {option}
                         count = {option.count}
-                        id = {index}
+                        id = {option.id}
                         setOptions = {setOptions}
                         options = {options}
                         text = {option.text}
